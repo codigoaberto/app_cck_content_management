@@ -7,4 +7,4 @@ After install this app go to https://github.com/codigoaberto/frontend_seblod_con
 
 Download :https://github.com/codigoaberto/app_cck_content_management/archive/master.zip
 
-Preview: ![alt tag](hhttp://www.codigoaberto.pt/extensions/frontend_management.jpg)
+Preview: ![alt tag](http://www.codigoaberto.pt/extensions/frontend_management.jpg)
