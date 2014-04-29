@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cck type="folders">
+	<author>Octopoos</author>
+	<authorEmail>contact@seblod.com</authorEmail>
+	<authorUrl>http://www.seblod.com</authorUrl>
+	<copyright>Copyright (C) 2013 SEBLOD. All Rights Reserved.</copyright>
+	<license>GNU General Public License version 2 or later.</license>
+	<description>SEBLOD 3.x - www.seblod.com</description>
+	<folder>
+		<id />
+		<asset_id />
+		<parent_id />
+		<path>content_management</path>
+		<title>Content Management</title>
+		<name>content_management</name>
+		<color />
+		<introchar />
+		<colorchar>#ffffff</colorchar>
+		<elements>type,field,search,template</elements>
+		<icon_path />
+		<depth />
+		<lft />
+		<rgt />
+		<description>&lt;p&gt;Frontend Content Management App&lt;/p&gt;</description>
+		<app>content_management</app>
+		<featured>0</featured>
+		<home>1</home>
+		<published>1</published>
+		<checked_out>0</checked_out>
+		<checked_out_time>0000-00-00 00:00:00</checked_out_time>
+	</folder>
+	<acl>{&quot;core.create&quot;:{&quot;6&quot;:1,&quot;3&quot;:1},&quot;core.delete&quot;:{&quot;6&quot;:1},&quot;core.delete.own&quot;:[],&quot;core.edit&quot;:{&quot;6&quot;:1,&quot;4&quot;:1},&quot;core.edit.state&quot;:{&quot;6&quot;:1,&quot;5&quot;:1},&quot;core.edit.own&quot;:{&quot;6&quot;:1,&quot;3&quot;:1},&quot;core.export&quot;:[],&quot;core.process&quot;:[]}</acl>
+</cck>

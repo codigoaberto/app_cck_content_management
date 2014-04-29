@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cck type="fields">
+	<author>Octopoos</author>
+	<authorEmail>contact@seblod.com</authorEmail>
+	<authorUrl>http://www.seblod.com</authorUrl>
+	<copyright>Copyright (C) 2013 SEBLOD. All Rights Reserved.</copyright>
+	<license>GNU General Public License version 2 or later.</license>
+	<description>SEBLOD 3.x - www.seblod.com</description>
+	<field>
+		<id />
+		<title>jcontent_edit</title>
+		<name>jcontent_edit</name>
+		<folder>content_management</folder>
+		<type>freetext</type>
+		<description />
+		<published>1</published>
+		<label />
+		<selectlabel> </selectlabel>
+		<display>3</display>
+		<required />
+		<validation />
+		<defaultvalue>&lt;p&gt;Edit&lt;/p&gt;</defaultvalue>
+		<options />
+		<options2 />
+		<minlength>0</minlength>
+		<maxlength>255</maxlength>
+		<size>32</size>
+		<cols>0</cols>
+		<rows>0</rows>
+		<ordering>0</ordering>
+		<sorting>0</sorting>
+		<divider />
+		<bool>0</bool>
+		<location />
+		<extended />
+		<style />
+		<script />
+		<bool2>0</bool2>
+		<bool3>0</bool3>
+		<bool4>0</bool4>
+		<bool5>0</bool5>
+		<bool6>0</bool6>
+		<bool7>0</bool7>
+		<bool8>1</bool8>
+		<css />
+		<attributes />
+		<storage>none</storage>
+		<storage_location />
+		<storage_table />
+		<storage_field>jcontent_edit</storage_field>
+		<storage_field2 />
+		<storage_params />
+		<storages />
+		<checked_out>0</checked_out>
+		<checked_out_time>0000-00-00 00:00:00</checked_out_time>
+	</field>
+</cck>

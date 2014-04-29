@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cck type="template_styles">
+	<author>Octopoos</author>
+	<authorEmail>contact@seblod.com</authorEmail>
+	<authorUrl>http://www.seblod.com</authorUrl>
+	<copyright>Copyright (C) 2013 SEBLOD. All Rights Reserved.</copyright>
+	<license>GNU General Public License version 2 or later.</license>
+	<description>SEBLOD 3.x - www.seblod.com</description>
+	<template_style>
+		<id />
+		<template>seb_table</template>
+		<client_id>0</client_id>
+		<home>0</home>
+		<title>seb_table - frontend_content_management_app (list)</title>
+		<params>{&quot;rendering_css_class&quot;:&quot;&quot;,&quot;cck_client_item&quot;:&quot;0&quot;,&quot;class_table&quot;:&quot;category zebra table&quot;,&quot;class_table_tr_even&quot;:&quot;cat-list-row%i&quot;,&quot;table_layout&quot;:&quot;&quot;,&quot;class_table_tr_odd&quot;:&quot;cat-list-row%i&quot;}</params>
+	</template_style>
+</cck>

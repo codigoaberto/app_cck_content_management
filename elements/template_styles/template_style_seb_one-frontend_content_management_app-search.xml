@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cck type="template_styles">
+	<author>Octopoos</author>
+	<authorEmail>contact@seblod.com</authorEmail>
+	<authorUrl>http://www.seblod.com</authorUrl>
+	<copyright>Copyright (C) 2013 SEBLOD. All Rights Reserved.</copyright>
+	<license>GNU General Public License version 2 or later.</license>
+	<description>SEBLOD 3.x - www.seblod.com</description>
+	<template_style>
+		<id />
+		<template>seb_one</template>
+		<client_id>0</client_id>
+		<home>0</home>
+		<title>seb_one - frontend_content_management_app (search)</title>
+		<params>{&quot;rendering_css_class&quot;:&quot;&quot;,&quot;field_label&quot;:&quot;1&quot;,&quot;field_description&quot;:&quot;0&quot;,&quot;variation_default&quot;:&quot;seb_css3&quot;,&quot;position_force_height&quot;:&quot;1&quot;,&quot;position_margin&quot;:&quot;8&quot;,&quot;position_header&quot;:&quot;0&quot;,&quot;position_header_variation&quot;:&quot;&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_left_variation&quot;:&quot;&quot;,&quot;position_top&quot;:&quot;1&quot;,&quot;position_top_variation&quot;:&quot;&quot;,&quot;position_sidebody_a&quot;:&quot;0&quot;,&quot;position_sidebody_b&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;1&quot;,&quot;position_bottom_variation&quot;:&quot;&quot;,&quot;position_right&quot;:&quot;400&quot;,&quot;position_right_variation&quot;:&quot;&quot;,&quot;position_footer&quot;:&quot;0&quot;,&quot;position_footer_variation&quot;:&quot;&quot;,&quot;debug&quot;:&quot;0&quot;}</params>
+	</template_style>
+</cck>

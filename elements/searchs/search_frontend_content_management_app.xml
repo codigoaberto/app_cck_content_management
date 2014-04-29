@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cck type="searchs">
+	<author>Octopoos</author>
+	<authorEmail>contact@seblod.com</authorEmail>
+	<authorUrl>http://www.seblod.com</authorUrl>
+	<copyright>Copyright (C) 2013 SEBLOD. All Rights Reserved.</copyright>
+	<license>GNU General Public License version 2 or later.</license>
+	<description>SEBLOD 3.x - www.seblod.com</description>
+	<search>
+		<id />
+		<title>Frontend Content Management</title>
+		<name>frontend_content_management_app</name>
+		<alias />
+		<folder>content_management</folder>
+		<content>1</content>
+		<template_search>seb_one - frontend_content_management_app (search)</template_search>
+		<template_filter>seb_one</template_filter>
+		<template_list>seb_table - frontend_content_management_app (list)</template_list>
+		<template_item>seb_one</template_item>
+		<description />
+		<access>1</access>
+		<published>1</published>
+		<options>{&quot;limit&quot;:&quot;0&quot;,&quot;cache&quot;:&quot;0&quot;,&quot;cache_per_user&quot;:&quot;0&quot;,&quot;stages_optional&quot;:&quot;&quot;,&quot;cache2&quot;:&quot;0&quot;,&quot;pagination&quot;:&quot;&quot;,&quot;debug&quot;:&quot;&quot;,&quot;sef&quot;:&quot;&quot;,&quot;prepare_content&quot;:&quot;&quot;,&quot;auto_redirect&quot;:&quot;0&quot;,&quot;ordering&quot;:&quot;&quot;,&quot;show_list_title&quot;:&quot;1&quot;,&quot;tag_list_title&quot;:&quot;h2&quot;,&quot;class_list_title&quot;:&quot;&quot;,&quot;show_list_desc&quot;:&quot;1&quot;,&quot;show_form&quot;:&quot;1&quot;,&quot;show_items_number&quot;:&quot;0&quot;,&quot;label_items_number&quot;:&quot;Results&quot;,&quot;class_items_number&quot;:&quot;total&quot;,&quot;show_pages_number&quot;:&quot;1&quot;,&quot;show_pagination&quot;:&quot;0&quot;,&quot;class_pagination&quot;:&quot;pagination&quot;,&quot;message_style_no_access&quot;:&quot;error&quot;,&quot;action_no_access&quot;:&quot;redirection&quot;,&quot;message_no_access&quot;:&quot;&quot;,&quot;redirection_url_no_access&quot;:&quot;index.php?option=com_users&amp;view=login&quot;,&quot;message_style&quot;:&quot;message&quot;,&quot;action&quot;:&quot;0&quot;,&quot;message&quot;:&quot;&quot;,&quot;show_list_desc_no_result&quot;:&quot;1&quot;}</options>
+		<location />
+		<sef_route />
+		<storage_location />
+		<stylesheets />
+		<version>22</version>
+		<checked_out>0</checked_out>
+		<checked_out_time>0000-00-00 00:00:00</checked_out_time>
+	</search>
+	<fields>
+		<field1 client="list" ordering="1" label="clear" variation="" variation_override="" required="" required_alert="" validation="" validation_options="" link="content" link_options="" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="" match_options="" match_value="" typo="" typo_label="0" typo_options="" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="column-a">art_title</field1>
+		<field2 client="list" ordering="2" label="" variation="" variation_override="" required="" required_alert="" validation="" validation_options="" link="content" link_options="{&quot;sef&quot;:&quot;&quot;,&quot;itemid&quot;:&quot;&quot;,&quot;content&quot;:&quot;&quot;,&quot;content_fieldname&quot;:&quot;&quot;,&quot;content_location&quot;:&quot;joomla_article&quot;,&quot;language&quot;:&quot;&quot;,&quot;class&quot;:&quot;&quot;,&quot;target&quot;:&quot;&quot;,&quot;rel&quot;:&quot;&quot;,&quot;tmpl&quot;:&quot;&quot;,&quot;custom&quot;:&quot;&quot;,&quot;path_type&quot;:&quot;0&quot;,&quot;state&quot;:&quot;1&quot;}" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="" match_options="" match_value="" typo="html" typo_label="0" typo_options="{&quot;html&quot;:&quot;&lt;div class=\&quot;btn btn-default\&quot;&gt;&lt;span class=\&quot;icon-eye\&quot;&gt;&lt;/span&gt;View&lt;/div&gt;&quot;}" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="column-b">jcontent_view</field2>
+		<field3 client="list" ordering="3" label=" " variation="" variation_override="" required="" required_alert="" validation="" validation_options="" link="cck_form" link_options="{&quot;form&quot;:&quot;&quot;,&quot;itemid&quot;:&quot;&quot;,&quot;form_edition&quot;:&quot;1&quot;,&quot;form_edition_stage&quot;:&quot;&quot;,&quot;redirection&quot;:&quot;&quot;,&quot;class&quot;:&quot;&quot;,&quot;target&quot;:&quot;&quot;,&quot;rel&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_custom&quot;:&quot;&quot;,&quot;state&quot;:&quot;1&quot;,&quot;tmpl&quot;:&quot;&quot;,&quot;custom&quot;:&quot;&quot;,&quot;no_access&quot;:&quot;1&quot;}" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="" match_options="" match_value="" typo="html" typo_label="0" typo_options="{&quot;html&quot;:&quot;&lt;div class=\&quot;btn btn-default\&quot;&gt;&lt;span class=\&quot;icon-pencil\&quot;&gt;&lt;/span&gt;Edit&lt;/div&gt;&quot;}" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="column-c">jcontent_edit</field3>
+		<field4 client="list" ordering="4" label=" " variation="" variation_override="" required="" required_alert="" validation="" validation_options="" link="content_delete" link_options="{&quot;confirm&quot;:&quot;1&quot;,&quot;redirection&quot;:&quot;&quot;,&quot;redirection_url&quot;:&quot;&quot;,&quot;class&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_custom&quot;:&quot;&quot;,&quot;state&quot;:&quot;1&quot;,&quot;no_access&quot;:&quot;1&quot;}" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="" match_options="" match_value="" typo="html" typo_label="0" typo_options="{&quot;html&quot;:&quot;&lt;div class=\&quot;btn btn-default\&quot;&gt;&lt;span class=\&quot;icon-remove\&quot;&gt;&lt;/span&gt;Delete&lt;/div&gt;&quot;}" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="column-d">jcontent_delete</field4>
+		<field5 client="order" ordering="1" label="" variation="" variation_override="" required="" required_alert="" validation="" validation_options="" link="" link_options="" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="DESC" match_options="" match_value="" typo="" typo_label="0" typo_options="" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="mainbody">art_id</field5>
+		<field6 client="search" ordering="1" label="" variation="form_filter" variation_override="" required="" required_alert="" validation="" validation_options="" link="" link_options="" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="" match_options="" match_value="" typo="" typo_label="0" typo_options="" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="top-a">art_title</field6>
+		<field7 client="search" ordering="2" label="" variation="form_filter" variation_override="" required="" required_alert="" validation="" validation_options="" link="" link_options="" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="" match_options="" match_value="" typo="" typo_label="0" typo_options="" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="top-b">art_catid</field7>
+		<field8 client="search" ordering="3" label="" variation="form_filter" variation_override="" required="" required_alert="" validation="" validation_options="" link="" link_options="" live="" live_options="" live_value="" markup="" markup_class="" match_collection="" match_mode="" match_options="" match_value="" typo="" typo_label="0" typo_options="" stage="0" access="1" restriction="" restriction_options="" computation="" computation_options="" conditional="" conditional_options="" position="top-c">art_state</field8>
+	</fields>
+	<positions>
+		<position1 client="list" legend="  " variation="" variation_options="" width="" height="" css="">column-a</position1>
+		<position2 client="list" legend=" " variation="" variation_options="" width="" height="" css="">column-b</position2>
+		<position3 client="list" legend=" " variation="" variation_options="" width="" height="" css="">column-c</position3>
+		<position4 client="list" legend=" " variation="" variation_options="" width="" height="" css="">column-d</position4>
+		<position5 client="list" legend="" variation="" variation_options="" width="" height="" css="">hidden</position5>
+		<position6 client="order" legend="" variation="" variation_options="" width="" height="" css="">mainbody</position6>
+		<position7 client="search" legend="" variation="" variation_options="" width="" height="" css="">clear</position7>
+		<position8 client="search" legend="" variation="" variation_options="" width="" height="" css="">top-a</position8>
+		<position9 client="search" legend="" variation="" variation_options="" width="" height="" css="">top-b</position9>
+		<position10 client="search" legend="" variation="" variation_options="" width="" height="" css="">top-c</position10>
+	</positions>
+</cck>
